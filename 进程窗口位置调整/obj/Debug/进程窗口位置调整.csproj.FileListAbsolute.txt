@@ -1,10 +1,10 @@
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口异常状态调整.exe.config
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口异常状态调整.exe
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口异常状态调整.pdb
 C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.csprojAssemblyReference.cache
 C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.Form.resources
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口异常状态调整.Properties.Resources.resources
 C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.csproj.GenerateResource.cache
 C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.csproj.CoreCompileInputs.cache
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口异常状态调整.exe
-C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口异常状态调整.pdb
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口位置调整.exe.config
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口位置调整.exe
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\bin\Debug\进程窗口位置调整.pdb
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.Properties.Resources.resources
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.exe
+C:\Users\GengG\source\repos\进程窗口位置调整\进程窗口位置调整\obj\Debug\进程窗口位置调整.pdb

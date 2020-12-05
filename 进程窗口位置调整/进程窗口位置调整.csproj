@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6C2E2ACE-5F50-4F4D-AEC4-0488C2CA7825}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>进程窗口异常状态调整</RootNamespace>
-    <AssemblyName>进程窗口异常状态调整</AssemblyName>
+    <RootNamespace>进程窗口位置调整</RootNamespace>
+    <AssemblyName>进程窗口位置调整</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -94,6 +94,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\app.manifest">
       <SubType>Designer</SubType>
